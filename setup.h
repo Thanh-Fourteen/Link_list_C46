@@ -27,7 +27,7 @@ void deleteAfterKeys(Node **head, int key);
 void deleteBeforeKeys(Node **head, int key);
 void deleteAllKeys(Node **head, int key);
 
-#endif SETUP_H
+#endif
 
 
 
